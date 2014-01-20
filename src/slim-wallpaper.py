@@ -1,7 +1,5 @@
 #!/usr/bin/env python2
 
-# Eres libre de modificar,compartir,etc
-# Por ()
 
 import pygtk
 pygtk.require('2.0')
